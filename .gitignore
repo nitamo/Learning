@@ -1,4 +1,7 @@
 *.class
 *.swp
-**/.gradle/**
-**/gradle/**
+
+*gradle*
+!build.gradle
+
+**/build/**
