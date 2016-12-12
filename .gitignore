@@ -7,3 +7,5 @@
 **/build/**
 
 **/META-INF/**
+
+.DS_Store
