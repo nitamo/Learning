@@ -1,10 +1,13 @@
 *.class
 *.swp
+*.iml
 
 *gradle*
 !build.gradle
 
 **/build/**
+**/.idea/**
+**/out/**
 
 **/META-INF/**
 
